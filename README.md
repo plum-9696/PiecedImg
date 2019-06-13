@@ -49,7 +49,9 @@ companies
        ->writeString();//输出到浏览器
    //die();如果浏览器一堆乱码,则加上这句
 ```
+> 输出到浏览器的图片  
 
+![](src/example/img/img.png)
 
 ### 使用说明  
 因为PiecedImg用到了魔术方法所以对ide的支持很不友好,所以把所有方法列出来,以免还需查看源码.
