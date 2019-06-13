@@ -1,0 +1,21 @@
+{
+  "name": "joey/pieced-img",
+  "description": "Collage of words and pictures",
+  "type": "library",
+  "require": {
+    "php": ">=5.6"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "joey",
+      "email": "liujunyi.coder@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Joey\\PiecedImg\\": "src/"
+    }
+  }
+}
