@@ -9,7 +9,7 @@
 
 ### 安装
 ```   
-companies
+composer require joey/pieced-img
 ```
 
 ### 示例
